@@ -1,0 +1,12 @@
+biopython==1.84+computecanada
+jax==0.3.25+computecanada
+jaxlib==0.3.25+cuda11.cudnn82.computecanada
+numpy==1.25.2+computecanada
+opt_einsum==3.4.0+computecanada
+pandas==2.1.1+computecanada
+python_dateutil==2.9.0.post0+computecanada
+pytz==2025.1+computecanada
+scipy==1.11.2+computecanada
+six==1.17.0+computecanada
+typing_extensions==4.12.2+computecanada
+tzdata==2025.1+computecanada
